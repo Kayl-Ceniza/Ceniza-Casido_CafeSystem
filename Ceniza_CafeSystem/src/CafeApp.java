@@ -1,13 +1,13 @@
 /**
- * Main application for the Campus Cafe Ordering System.
+ * This is the main class for the Campus Cafe Ordering System.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public class CafeApp {
 
     /**
-     * Main method that runs the cafe ordering system.
+     * This is the Main method that runs the cafe ordering system.
      * @param args command line arguments
      */
     public static void main(String[] args) {
