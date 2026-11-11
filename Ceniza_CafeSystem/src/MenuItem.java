@@ -1,7 +1,7 @@
 /**
  * Represents the parent class of all cafe menu items.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public abstract class MenuItem {
