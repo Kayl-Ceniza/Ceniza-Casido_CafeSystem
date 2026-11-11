@@ -1,7 +1,7 @@
 /**
  * Represents a baked pastry sold at the cafe.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public class Pastry extends MenuItem {
