@@ -1,7 +1,7 @@
 /**
  * Represents a beverage sold at the campus cafe.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public class Beverage extends MenuItem {
