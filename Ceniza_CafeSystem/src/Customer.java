@@ -3,7 +3,7 @@
 /**
  * Represents a customer placing a cafe order.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public class Customer {
