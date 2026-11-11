@@ -1,7 +1,7 @@
 /**
  * Represents a rice meal sold at the campus cafe.
  *
- * @author Kayl Ceniza
+ * @author Kayl Ceniza/Rowel Casido
  * @version 1.0
  */
 public class Meal extends MenuItem {
